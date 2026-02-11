@@ -50,7 +50,6 @@ Predict student results (**Pass / Fail**) using:
 4. Model Training (Logistic Regression)  
 5. Training Accuracy Evaluation  
 6. Testing Accuracy Evaluation  
-
 ---
 
 ## 📈 Model Performance
